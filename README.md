@@ -23,3 +23,12 @@ src/
 2. TypeScript
 3. Bootstrap
 4. Fetch API
+
+**Getting Started**
+1. Open the solution folder in VSCode
+2. Open integrated terminal
+3. run command **npm install** to installed required packages
+4. run command **npm dev run** to start the frontend app.
+   
+**Design Decission**
+Focus was on to get the app running in short time, so basic component and hooks were used. 
